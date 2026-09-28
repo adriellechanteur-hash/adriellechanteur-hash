@@ -27,9 +27,9 @@ I build control harnesses for coding agents — proof-carrying execution, not ch
 
 ---
 
-## Projet phare — [HELIX](https://github.com/adriellechanteur-hash/HELIX)
+## Projet phare — [HELIX](https://github.com/adrieltmj/HELIX)
 
-**v0.3 READY** · MIT · [Release](https://github.com/adriellechanteur-hash/HELIX/releases/tag/v0.3.0) · [Readiness](https://github.com/adriellechanteur-hash/HELIX/blob/main/docs/reports/v0.3-readiness.md)
+**v0.3 READY** · MIT · [Release](https://github.com/adrieltmj/HELIX/releases/tag/v0.3.0) · [Readiness](https://github.com/adrieltmj/HELIX/blob/main/docs/reports/v0.3-readiness.md)
 
 Harness de contrôle pour agents de programmation :
 
@@ -56,16 +56,15 @@ node apps/cli/dist/main.js run "hello" --provider mock
 
 ## Contact
 
-- GitHub : [@adriellechanteur-hash](https://github.com/adriellechanteur-hash)
-- Projet : [HELIX](https://github.com/adriellechanteur-hash/HELIX)
-- Prefer handle : **adrieltmj-hash**
+- GitHub : [@adrieltmj](https://github.com/adrieltmj)
+- Projet : [HELIX](https://github.com/adrieltmj/HELIX)
 
 ---
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriellechanteur-hash&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriellechanteur-hash&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrieltmj&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrieltmj&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
