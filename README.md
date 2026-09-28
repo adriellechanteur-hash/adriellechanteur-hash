@@ -10,13 +10,13 @@ The model proposes. Helix authorizes, executes, proves, evaluates, and lands —
 
 ## Featured project
 
-**[HELIX](https://github.com/adriellechanteur-hash/HELIX)** — TypeScript monorepo (CLI + core harness)
+**[HELIX](https://github.com/adrieltmj-hash/HELIX)** — TypeScript monorepo (CLI + core harness)
 
 - Autonomous coding loop (propose → verify → LKG → land)
 - Sandboxes: host / Docker / Firecracker microVM
 - OTLP audit export · CI remote probe · promotion policy
 
-[v0.3 readiness](https://github.com/adriellechanteur-hash/HELIX/blob/main/docs/reports/v0.3-readiness.md) · [MIT](https://github.com/adriellechanteur-hash/HELIX/blob/main/LICENSE)
+[v0.3 readiness](https://github.com/adrieltmj-hash/HELIX/blob/main/docs/reports/v0.3-readiness.md) · [MIT](https://github.com/adrieltmj-hash/HELIX/blob/main/LICENSE)
 
 ## Focus
 
