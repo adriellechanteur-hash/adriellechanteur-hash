@@ -94,6 +94,7 @@ node apps/cli/dist/main.js verify --command node --arg -e --arg "process.exit(0)
 
 - GitHub : [@adrieltmj](https://github.com/adrieltmj)
 - Helix : [github.com/adrieltmj/HELIX](https://github.com/adrieltmj/HELIX)
+- About gist : [gist](https://gist.github.com/adrieltmj/fde8ae89a9e55244cf79ed558b33e914)
 - Issues / discussions bienvenues sur le dépôt
 
 ---
